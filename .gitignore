@@ -1,0 +1,19 @@
+# Spring Boot / Java
+target/
+*.class
+# Gradle
+.gradle/
+build/
+# Environment / local files
+.env
+*.pem
+*.local
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+# VS Code
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
